@@ -19,6 +19,6 @@
 ## Tasks
 
 - [X] Build a Database
-- [X] Analuze and Retrieve Data with SQL
+- [X] Analyze and Retrieve Data with SQL
 - [X] Connect Power BI to Database
 - [X] Visualize Data in Power BI
